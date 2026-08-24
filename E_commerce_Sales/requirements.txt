@@ -1,0 +1,31 @@
+E-Commerce Sales & Customer Analytics
+=====================================
+
+Tools Required:
+- PostgreSQL
+- pgAdmin 4
+- SQL
+- Git
+- GitHub
+
+PostgreSQL Version:
+- PostgreSQL 14+ recommended
+
+Python:
+- Not required
+
+Main SQL Concepts:
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- JOIN
+- CTE
+- CASE WHEN
+- Aggregate Functions
+- Window Functions
+- LAG()
+- RANK()
+- Date Functions
+- Data Quality Checks
